@@ -1,7 +1,7 @@
 {
-	"name": "@d-fischer/connection",
+	"name": "d-fischer-connection",
 	"tags": [
-		"@d-fischer/connection",
+		"d-fischer-connection",
 		"externs",
 		"typescript",
 		"javascript",
@@ -14,9 +14,9 @@
 		"haxiomic"
 	],
 	"dependencies": {
-		"d-fischer-typed-event-emitter": "3.0.2",
-		"d-fischer-logger": "2.0.0",
-		"d-fischer-shared-utils": "2.3.2"
+		"d-fischer-typed-event-emitter": "git:https://github.com/Sacramentix/hx-d-fischer-typed-event-emitter.git",
+		"d-fischer-logger": "git:https://github.com/Sacramentix/hx-d-fischer-logger.git",
+		"d-fischer-shared-utils": "git:https://github.com/Sacramentix/hx-d-fischer-shared-utils.git"
 	},
 	"version": "6.0.2"
 }
