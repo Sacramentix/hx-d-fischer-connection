@@ -13,6 +13,10 @@
 	"contributors": [
 		"haxiomic"
 	],
-	"dependencies": {},
+	"dependencies": {
+		"d-fischer-typed-event-emitter": "",
+		"d-fischer-logger": "",
+		"d-fischer-shared-utils": ""
+	},
 	"version": "6.0.2"
 }
