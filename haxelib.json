@@ -13,10 +13,6 @@
 	"contributors": [
 		"haxiomic"
 	],
-	"dependencies": {
-		"d-fischer-typed-event-emitter": "git:https://github.com/Sacramentix/hx-d-fischer-typed-event-emitter.git",
-		"d-fischer-logger": "git:https://github.com/Sacramentix/hx-d-fischer-logger.git",
-		"d-fischer-shared-utils": "git:https://github.com/Sacramentix/hx-d-fischer-shared-utils.git"
-	},
+	"dependencies": {},
 	"version": "6.0.2"
 }

@@ -1,0 +1,3 @@
+-lib d-fischer-typed-event-emitter:git:https://github.com/Sacramentix/hx-d-fischer-typed-event-emitter.git
+-lib d-fischer-logger:git:https://github.com/Sacramentix/hx-d-fischer-logger.git
+-lib d-fischer-shared-utils:git:https://github.com/Sacramentix/hx-d-fischer-shared-utils.git
